@@ -16,7 +16,7 @@ public class PruebaConflicto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        //1 comentario
     }
     
 }
